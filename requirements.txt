@@ -1,0 +1,6 @@
+selenium
+webdriver-manager
+pymysql
+sqlalchemy
+python-dotenv
+pillow
