@@ -5,11 +5,9 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/ChromeDriver-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ChromeDriver">
 
-  <h1>🔍 Tax Humor Scraper</h1>
+  <h1>🔍 Tax Joke Scraper</h1>
 
-  <p><strong>An educational Selenium-based scraper that finds and archives humorous posts on X (Twitter) about creative tax situations involving crypto, gambling, reselling, and cash deals.</strong></p>
-
-  <p>It automatically detects funny content, takes screenshots, and stores the data cleanly in MySQL — built purely for learning web scraping, automation, and data collection with Python.</p>
+  <p><strong>An educational Selenium-powered scraper that detects humorous posts on X (Twitter) about dodging taxes on crypto, gambling, reselling, and cash deals — then captures screenshots and stores everything in MySQL.</strong></p>
 
   <!-- Badges -->
   <a href="https://github.com/AdamHanafi/tax-fraud-scraper/stargazers">
